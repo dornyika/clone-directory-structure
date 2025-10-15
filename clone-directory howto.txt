@@ -1,0 +1,1 @@
+.\clone-directory.ps1 -SourcePath "D:\Media" -DestinationPath "E:\Index\Media"
